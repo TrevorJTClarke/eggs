@@ -5,7 +5,7 @@ You know, those crazy things that happen to just appear on websites, and somehow
 ### Ordered By Epic/Awesomeness
 
   1. *Still looking for the most epic easter egg...*
-  2. [TBDE]() - *The Best Directive Ever* - Keystroke changes all avatars on the page to laughing gifs.
+  2. [TBDE](https://github.com/TrevorJTClarke/tbde) - *The Best Directive Ever* - Keystroke changes all avatars on the page to laughing gifs.
   3. [Velo](http://zurb.com/playground/jquery-raptorize) - Scare visitors with a randomly timed dinosaur trolling the page!
   4. [RevRev](http://stephenplusplus.github.io/revrev.js/) - Change text into crazy strings.
   5. [Asteroids](https://github.com/erkie/erkie.github.com) - Play Asteroids and fight against elements on the page.

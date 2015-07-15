@@ -11,3 +11,4 @@ You know, those crazy things that happen to just appear on websites, and somehow
   5. [Asteroids](https://github.com/erkie/erkie.github.com) - Play Asteroids and fight against elements on the page.
   6. [Katamari Damacy](http://kathack.com/) - Control a ball that picks up elements on the page.
   7. [Konami Code](http://code.snaptortoise.com/konami-js/) - Can trigger eggs from the konami code!
+  8. [Overscroll](https://github.com/tholman/overscroll) - Sneaky iOS scrolling effects

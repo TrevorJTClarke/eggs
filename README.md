@@ -13,3 +13,4 @@ You know, those crazy things that happen to just appear on websites, and somehow
   7. [Konami Code](http://code.snaptortoise.com/konami-js/) - Can trigger eggs from the konami code!
   8. [Overscroll](https://github.com/tholman/overscroll) - Sneaky iOS scrolling effects
   9. [Echochamber](https://github.com/tessalt/echo-chamber-js) - Add comments to your website, so a user feels their voice is heard.
+  10. [ClickSpark](http://www.ymc.ch/sandbox/clickspark/demo.html) - Launch particles from elements on the page.

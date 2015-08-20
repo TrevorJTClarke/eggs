@@ -12,5 +12,6 @@ You know, those crazy things that happen to just appear on websites, and somehow
   6. [Katamari Damacy](http://kathack.com/) - Control a ball that picks up elements on the page.
   7. [Konami Code](http://code.snaptortoise.com/konami-js/) - Can trigger eggs from the konami code!
   8. [Overscroll](https://github.com/tholman/overscroll) - Sneaky iOS scrolling effects
-  9. [Echochamber](https://github.com/tessalt/echo-chamber-js) - Add comments to your website, so a user feels their voice is heard.
-  10. [ClickSpark](http://www.ymc.ch/sandbox/clickspark/demo.html) - Launch particles from elements on the page.
+  9. [Echochamber](https://github.com/tessalt/echo-chamber-js) - Add comments to your website, so a user feels their voice is heard
+  10. [ClickSpark](http://www.ymc.ch/sandbox/clickspark/demo.html) - Launch particles from elements on the page
+  11. [Superb](https://github.com/sindresorhus/superb) - Use epically magnificent splendiforous words.

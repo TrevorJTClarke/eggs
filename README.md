@@ -17,3 +17,4 @@ You know, those crazy things that happen to just appear on websites, and somehow
   11. [Superb](https://github.com/sindresorhus/superb) - Use epically magnificent splendiforous words
   12. [Unindented](http://unindented.github.io/jquery-easteregg/) - Reverse the entire page layout!
   13. [Haarlem Shaker](https://github.com/moovweb/harlem_shaker) - Enables the good ol' haarlem shake to all elements on the page! Get your groove on!
+  14. [Loud Links](https://github.com/mahdif/loud-links/) - A simple tiny Javascript library to add interaction sounds to your website.

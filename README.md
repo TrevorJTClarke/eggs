@@ -17,3 +17,4 @@ You know, those crazy things that happen to just appear on websites, and somehow
   11. [Superb](https://github.com/sindresorhus/superb) - Use epically magnificent splendiforous words
   12. [Unindented](http://unindented.github.io/jquery-easteregg/) - Reverse the entire page layout!
   13. [Haarlem Shaker](https://github.com/moovweb/harlem_shaker) - Enables the good ol' haarlem shake to all elements on the page! Get your groove on!
+  14. [Emojify Webpack](https://github.com/Mechazawa/emojify-webpack-plugin/) - Minify your code with style! Or minify your code so millenials can read it!

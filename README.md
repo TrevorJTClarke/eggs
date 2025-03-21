@@ -20,3 +20,4 @@ You know, those crazy things that happen to just appear on websites, and somehow
   14. [Loud Links](https://github.com/mahdif/loud-links/) - A simple tiny Javascript library to add interaction sounds to your website.
   15. [Emojify Webpack](https://github.com/Mechazawa/emojify-webpack-plugin/) - Minify your code with style! Or minify your code so millenials can read it!
   16. [five.js](https://five.js.org) - A library to overcomplicate 5.
+  17. [Fake Terminal](https://github.com/giacomo-b/rust-stakeholder)
